@@ -8,6 +8,10 @@ body {
 
 header {
     background-color: rgba(24, 24, 24, 0.9);
+    background-image: url('tomi-ronin-waves.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     text-align: center;
     padding: 80px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
