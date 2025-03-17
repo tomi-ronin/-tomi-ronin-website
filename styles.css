@@ -1,23 +1,31 @@
+/* General Styles */
 body {
-    background-color: #f5e8d9;
+    background-image: url('tomi-ronin-texture.webp');
+    background-size: cover;
+    background-position: center;
     color: #0f0f0f;
     font-family: 'Cinzel', serif;
     margin: 0;
     padding: 0;
     text-align: center;
 }
+
+/* Header Styling */
 header {
-    background-color: #0f4c81;
-    background-image: url('tomi-ronin-texture.webp');
+    background-image: url('tomi-ronin-waves.webp');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
     padding: 50px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     color: #fdf6ec;
 }
-footer {
-    background: #0f4c81;
-    padding: 30px;
-    font-size: 1rem;
-    color: #fdf6ec;
-}
+
+/* Navigation */
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold
