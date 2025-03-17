@@ -21,7 +21,7 @@ header {
     padding: 50px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     color: #1c6ea4;
-    text-shadow: -2px -2px 4px #fff, 2px -2px 4px #fff, -2px 2px 4px #fff, 2px 2px 4px #fff;
+    text-shadow: 0px 0px 10px #fff, 0px 0px 15px #fff, 0px 0px 20px #fff;
     font-family: 'Cinzel', serif;
     font-family: 'Cinzel', serif;
 }
