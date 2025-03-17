@@ -16,6 +16,14 @@ body {
 /* Header Styling */
 header {
     position: relative;
+    background-image: url('wave-pattern.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    color: #1c6ea4;
+    text-shadow: 0px 0px 10px #fff, 0px 0px 15px #fff, 0px 0px 20px #fff;
+    font-family: 'Cinzel', serif;
 }
 
 header h1 {
@@ -24,16 +32,6 @@ header h1 {
     background: rgba(0, 0, 0, 0.6);
     padding: 10px 20px;
     border-radius: 5px;
-    position: relative;
-    background-image: url('tomi-ronin-waves.webp');
-    background-size: cover;
-    background-position: center;
-    padding: 50px 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    color: #1c6ea4;
-    text-shadow: 0px 0px 10px #fff, 0px 0px 15px #fff, 0px 0px 20px #fff;
-    font-family: 'Cinzel', serif;
-    font-family: 'Cinzel', serif;
 }
 
 /* Navigation */
