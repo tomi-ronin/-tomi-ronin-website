@@ -3,7 +3,7 @@
 
 /* General Styles */
 body {
-    background-image: url('textured-background.jpg');
+    background-image: url('tomi-ronin-texture.webp');
     background-size: cover;
     background-position: center;
     color: #0f0f0f;
@@ -15,12 +15,13 @@ body {
 
 /* Header Styling */
 header {
-    background-image: url('wave-pattern.jpg');
+    background-image: url('tomi-ronin-waves.webp');
     background-size: cover;
     background-position: center;
     padding: 50px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    color: #fdf6ec;
+    color: #1c6ea4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     font-family: 'Cinzel', serif;
 }
 
